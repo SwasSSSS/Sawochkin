@@ -224,7 +224,7 @@ font-weight: 700;
   font-weight: 700;
   font-size: 60px;
   line-height: 74px;
-  display:inline-block;
+  display:block;
   margin-bottom: 24px;
   }
   .hero_descr{
@@ -552,5 +552,15 @@ font-size:25px; }
 }
 .hero_title {
   font-size: 36px;}
+}
+.telA{
+  display:inline-flex;
+  Color:#000;
+  text-decoration: none;
+font-weight: 700;
+}
+.telA:hover{
+  color:rgb(136, 80, 80);
+  opacity: 0.5;
 }
 
